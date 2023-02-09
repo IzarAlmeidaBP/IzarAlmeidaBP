@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
     <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
     <img scr="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+    <img scr="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"
   </div>
 </div>
   
