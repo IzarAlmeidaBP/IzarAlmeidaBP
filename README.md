@@ -1,6 +1,6 @@
 <h1>Welcome to my profile 😌</h1>
 
-- My name is Izar, I'm 20 years old.
+- My name is Izar, I'm 21 years old.
 - My favorite tech I use is Java.
 - I started learning about coding in Janeiro/2022.
 - I'm in the 3° period of Sistemas de Informação at Unifacisa.
